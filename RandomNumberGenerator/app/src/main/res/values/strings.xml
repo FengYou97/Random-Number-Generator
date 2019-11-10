@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="title">Get A Random Number!</string>
+    <string name="lower_bound_hint">1</string>
+    <string name="upper_bound_hint">30</string>
+    <string name="checkbox">Without replacement</string>
+    <string name="get_number">Get Number</string>
+</resources>
